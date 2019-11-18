@@ -1,0 +1,11 @@
+
+<view class="modal-box">
+
+  <view class="modal-body">
+    <view class="showWanba" hidden="{{hideWanba}}">
+      <image src="https://img.wondfun.com/wanba/img/gamepic/long1.png" class="wanbapic"></image>
+      <button open-type='getPhoneNumber' bindgetphonenumber="getPhoneNumber">立即参加</button>
+    </view>
+  </view>
+</view>
+ 
